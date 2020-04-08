@@ -1,0 +1,5 @@
+board_size: 100
+card_colors: 10
+card_shapes: 10
+card_maxnum: 10
+card_shades: 10
